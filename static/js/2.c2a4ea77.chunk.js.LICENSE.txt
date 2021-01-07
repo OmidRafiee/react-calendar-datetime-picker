@@ -4,6 +4,16 @@ object-assign
 @license MIT
 */
 
+/*!
+ * 
+ * persian-date -  1.1.0
+ * Reza Babakhani <babakhani.reza@gmail.com>
+ * http://babakhani.github.io/PersianWebToolkit/docs/persian-date/
+ * Under MIT license 
+ * 
+ * 
+ */
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
