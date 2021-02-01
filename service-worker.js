@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-calendar-datetime-picker/precache-manifest.795bdcbf94b2374069ff229ac6612301.js"
+  "/react-calendar-datetime-picker/precache-manifest.580f93900e34e18faa7a9b05668f9919.js"
 );
 
 self.addEventListener('message', (event) => {
