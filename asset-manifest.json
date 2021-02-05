@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/react-calendar-datetime-picker/static/css/main.e02169b5.chunk.css",
-    "main.js": "/react-calendar-datetime-picker/static/js/main.9c6cb4a4.chunk.js",
-    "main.js.map": "/react-calendar-datetime-picker/static/js/main.9c6cb4a4.chunk.js.map",
+    "main.js": "/react-calendar-datetime-picker/static/js/main.70350ed3.chunk.js",
+    "main.js.map": "/react-calendar-datetime-picker/static/js/main.70350ed3.chunk.js.map",
     "runtime-main.js": "/react-calendar-datetime-picker/static/js/runtime-main.f89c61ab.js",
     "runtime-main.js.map": "/react-calendar-datetime-picker/static/js/runtime-main.f89c61ab.js.map",
-    "static/js/2.f10340a7.chunk.js": "/react-calendar-datetime-picker/static/js/2.f10340a7.chunk.js",
-    "static/js/2.f10340a7.chunk.js.map": "/react-calendar-datetime-picker/static/js/2.f10340a7.chunk.js.map",
+    "static/js/2.397053df.chunk.js": "/react-calendar-datetime-picker/static/js/2.397053df.chunk.js",
+    "static/js/2.397053df.chunk.js.map": "/react-calendar-datetime-picker/static/js/2.397053df.chunk.js.map",
     "index.html": "/react-calendar-datetime-picker/index.html",
-    "precache-manifest.92fe7e0a0be4e7abb8cfd98570657fc1.js": "/react-calendar-datetime-picker/precache-manifest.92fe7e0a0be4e7abb8cfd98570657fc1.js",
+    "precache-manifest.af4610f9ebe74331108fa4d894552e6b.js": "/react-calendar-datetime-picker/precache-manifest.af4610f9ebe74331108fa4d894552e6b.js",
     "service-worker.js": "/react-calendar-datetime-picker/service-worker.js",
     "static/css/main.e02169b5.chunk.css.map": "/react-calendar-datetime-picker/static/css/main.e02169b5.chunk.css.map",
-    "static/js/2.f10340a7.chunk.js.LICENSE.txt": "/react-calendar-datetime-picker/static/js/2.f10340a7.chunk.js.LICENSE.txt",
+    "static/js/2.397053df.chunk.js.LICENSE.txt": "/react-calendar-datetime-picker/static/js/2.397053df.chunk.js.LICENSE.txt",
     "static/media/arrow-left.6de3f841.svg": "/react-calendar-datetime-picker/static/media/arrow-left.6de3f841.svg",
     "static/media/arrow-right.5f553dc4.svg": "/react-calendar-datetime-picker/static/media/arrow-right.5f553dc4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f89c61ab.js",
-    "static/js/2.f10340a7.chunk.js",
+    "static/js/2.397053df.chunk.js",
     "static/css/main.e02169b5.chunk.css",
-    "static/js/main.9c6cb4a4.chunk.js"
+    "static/js/main.70350ed3.chunk.js"
   ]
 }
