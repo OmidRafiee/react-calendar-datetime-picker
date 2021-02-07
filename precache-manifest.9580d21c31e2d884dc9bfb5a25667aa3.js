@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5cdaf44d274a96a34e54ddc417b973a",
+    "revision": "358ebe5b93cbb297717baa9f5e52057d",
     "url": "/react-calendar-datetime-picker/index.html"
   },
   {
-    "revision": "79ee153c75d68f26dea0",
+    "revision": "65f1096af3cde2cd100d",
     "url": "/react-calendar-datetime-picker/static/css/main.8979382f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-calendar-datetime-picker/static/js/2.c4d18bb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79ee153c75d68f26dea0",
-    "url": "/react-calendar-datetime-picker/static/js/main.f87db4fd.chunk.js"
+    "revision": "65f1096af3cde2cd100d",
+    "url": "/react-calendar-datetime-picker/static/js/main.a8280fcf.chunk.js"
   },
   {
     "revision": "3ce3067ba4e0a2fcfa5b",
